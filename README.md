@@ -19,3 +19,8 @@ pip install requests pyyaml yagmail
 username填入学号，password填入密码，多用户请用---分开后，相同填写。
 
 ![averter](https://img-blog.csdnimg.cn/6326eca3beec4e729d604ebff2a546a8.png)
+
+
+3.程序运行：
+
+将配置文件与代码放到同一目录下后，使用python HYZGDaKa.py 即可运行。可设置定时运行。
