@@ -16,6 +16,6 @@ pip install requests pyyaml yagmail
 
 2.config配置文件的填写：
 
-username填入学号，password填入密码，receiver填入接受邮箱，多用户请用---分开后，相同填写。
+username填入学号，password填入密码，多用户请用---分开后，相同填写。
 
-![averter](https://img-blog.csdnimg.cn/d1618ed4117e4fad8c078deb25892d53.png)
+![averter](https://img-blog.csdnimg.cn/6326eca3beec4e729d604ebff2a546a8.png)
