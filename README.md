@@ -11,7 +11,7 @@
 
 1.依赖安装：
 
-pip install requests pyyaml yagmail
+pip install requests pyyaml
 
 
 2.config配置文件的填写：
